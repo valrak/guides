@@ -1,6 +1,6 @@
 # Compiling RetroArch PCSXReARMed for Pi4
 ## Prerequisites
-	sudo apt install build-essential libx11-dev	libpng-dev
+	sudo apt install build-essential libx11-dev libpng-dev
 
 If not working try these: `sudo apt install build-essential libasound2-dev libudev-dev libxkbcommon-dev zlib1g-dev libfreetype6-dev libegl1-mesa-dev libgles2-mesa-dev libgbm-dev libavcodec-dev libsdl2-dev libsdl-image1.2-dev libxml2-dev yasm libavformat-dev libavdevice-dev libswresample-dev libavresample-dev libswscale-dev libv4l-dev libgl*-mesa-dev`
 ## Prepare files
